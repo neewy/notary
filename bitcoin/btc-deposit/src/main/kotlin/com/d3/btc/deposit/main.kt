@@ -16,7 +16,7 @@ import org.springframework.context.annotation.ComponentScan
         "com.d3.btc.deposit",
         "com.d3.btc.healthcheck",
         "com.d3.btc.provider.network",
-        "com.d3.btc.provider.wallet",
+        "com.d3.btc.wallet",
         "com.d3.btc.listener",
         "com.d3.btc.handler",
         "com.d3.btc.peer"]
